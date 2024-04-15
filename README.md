@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on opensource projects at SpaceYaTech and making closedsource contributions to the Mentorlst platform.<br>Looking to collaborate on JavaScript based projects; the stacks don't matter, we can can figure it out together.<br>My current learning curve includes ThreeJs and Pixie for 3D Animations, coz why not? I am also looking to get into blockchain just to put these 3D rendering knowledge into an awesome dApp.<br>
+I'm a lover of all things tech. A typical workday for me involves building and maintaining an Online Gaming Casino<br>But, I don't just wear my programming hat at work. You'll often find me contributing to OpenSource platforms like Docker Community, AWS Community Nairobi, and Space Ya Tech. It's also common to find me getting my hands dirty on all things JavaScript and the sorrounding technologies that makes Web Development possible.
 
 
 # 💻 Tech Stack:
