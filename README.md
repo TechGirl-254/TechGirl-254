@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a lover of all things tech. A typical workday for me involves building and maintaining an Online Gaming Casino<br>But, I don't just wear my programming hat at work. You'll often find me contributing to OpenSource platforms like Docker Community, AWS Community Nairobi, and Space Ya Tech. It's also common to find me getting my hands dirty on all things JavaScript and the sorrounding technologies that makes Web Development possible.
+I'm a lover of all things tech. A typical workday for me involves building and maintaining an Online Gaming Casino<br>
+But, I don't just wear my programming hat at work. You'll often find me contributing to OpenSource platforms like Docker Community, AWS Community Nairobi, and Space Ya Tech.<br>
+It's also common to find me getting my hands dirty on all things JavaScript and the sorrounding technologies that cloud-native development possible.
 
 
 # 💻 Tech Stack:
